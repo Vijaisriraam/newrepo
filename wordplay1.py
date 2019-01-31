@@ -6,5 +6,5 @@ def word_search(name):
 		if('e'in word):
 			print(word)
 			count=count+1
-	print('count is:',count)
+	print('total count is:',count)
 word_search('words.txt')
